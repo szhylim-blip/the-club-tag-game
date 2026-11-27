@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "godot": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@shin2344234/godot-mcp@0.1.2",
+        "--project",
+        "C:\\Users\\szhyl\\Downloads\\MultiPlayer Tag game"
+      ],
+      "env": {
+        "GODOT_PATH": "C:\\Users\\szhyl\\AppData\\Local\\Microsoft\\WinGet\\Links\\godot.exe"
+      }
+    }
+  }
+}

@@ -1,0 +1,1242 @@
+[
+  {
+    "path": "res://assets/characters/kaykit/skeleton_minion.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/HEAD/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Minion.glb",
+    "license": "CC0-1.0",
+    "author": "Kay Lousberg (KayKit)",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "kind": "character"
+  },
+  {
+    "path": "res://assets/characters/kaykit/skeleton_warrior.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0/HEAD/addons/kaykit_character_pack_skeletons/Characters/gltf/Skeleton_Warrior.glb",
+    "license": "CC0-1.0",
+    "author": "Kay Lousberg (KayKit)",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Skeletons-1.0",
+    "kind": "character"
+  },
+  {
+    "path": "res://assets/props/box_large.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/HEAD/addons/kaykit_dungeon_remastered/Assets/gltf/box_large.gltf.glb",
+    "license": "CC0-1.0",
+    "author": "Kay Lousberg (KayKit)",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "kind": "prop"
+  },
+  {
+    "path": "res://assets/props/crates_stacked.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/HEAD/addons/kaykit_dungeon_remastered/Assets/gltf/crates_stacked.gltf.glb",
+    "license": "CC0-1.0",
+    "author": "Kay Lousberg (KayKit)",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "kind": "prop"
+  },
+  {
+    "path": "res://assets/props/table_long.glb",
+    "url": "https://raw.githubusercontent.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0/HEAD/addons/kaykit_dungeon_remastered/Assets/gltf/table_long.gltf.glb",
+    "license": "CC0-1.0",
+    "author": "Kay Lousberg (KayKit)",
+    "page": "https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0",
+    "kind": "prop"
+  },
+  {
+    "path": "res://assets/textures/floor_concrete_diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/concrete_floor_worn_001",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/textures/floor_concrete_nor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/concrete_floor_worn_001",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/textures/floor_concrete_rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_worn_001/concrete_floor_worn_001_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/concrete_floor_worn_001",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/textures/wall_plaster_diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damaged_plaster/damaged_plaster_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/damaged_plaster",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/textures/wall_plaster_nor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damaged_plaster/damaged_plaster_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/damaged_plaster",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/textures/wall_plaster_rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/damaged_plaster/damaged_plaster_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "author": "Poly Haven",
+    "page": "https://polyhaven.com/a/damaged_plaster",
+    "kind": "texture"
+  },
+  {
+    "path": "res://assets/vfx/explosion_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Explosion%20Pack/Simple%20explosion/simpleExplosion00.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/explosion-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/explosion_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Explosion%20Pack/Simple%20explosion/simpleExplosion01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/explosion-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/explosion_02.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Explosion%20Pack/Simple%20explosion/simpleExplosion02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/explosion-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/explosion_03.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Explosion%20Pack/Simple%20explosion/simpleExplosion03.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/explosion-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/audio/ui_click.wav",
+    "url": "https://raw.githubusercontent.com/Calinou/kenney-ui-audio/HEAD/addons/kenney_ui_audio/click1.wav",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/ui-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover.wav",
+    "url": "https://raw.githubusercontent.com/Calinou/kenney-ui-audio/HEAD/addons/kenney_ui_audio/rollover1.wav",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/ui-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_confirm.wav",
+    "url": "https://raw.githubusercontent.com/Calinou/kenney-ui-audio/HEAD/addons/kenney_ui_audio/mouseclick1.wav",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/ui-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep00.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep01.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep02.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep03.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep04.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_05.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/footstep05.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT00.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT01.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT02.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT03.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/rpg-audio",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/vfx/particle_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/fire_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/particle_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/fire_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/particle_02.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/smoke_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/particle_03.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/smoke_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/audio/step_concrete_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_concrete_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_concrete_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_concrete_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_concrete_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_concrete_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_concrete_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_concrete_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_concrete_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_concrete_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_wood_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_wood_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_wood_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_wood_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_wood_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_wood_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_wood_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_wood_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_wood_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_wood_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_grass_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_grass_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_grass_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_grass_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_grass_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_grass_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_grass_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_grass_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_grass_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_grass_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_carpet_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_carpet_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_carpet_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_carpet_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_carpet_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_carpet_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_carpet_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_carpet_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/step_carpet_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/footstep_carpet_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_soft_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactSoft_medium_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_soft_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactSoft_medium_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_soft_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactSoft_medium_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_soft_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactSoft_medium_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_soft_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactSoft_medium_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_wood_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactWood_medium_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_wood_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactWood_medium_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_wood_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactWood_medium_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_wood_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactWood_medium_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_wood_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactWood_medium_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_metal_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactMetal_medium_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_metal_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactMetal_medium_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_metal_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactMetal_medium_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_metal_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactMetal_medium_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_metal_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactMetal_medium_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_punch_00.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactPunch_medium_000.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_punch_01.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactPunch_medium_001.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_punch_02.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactPunch_medium_002.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_punch_03.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactPunch_medium_003.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/impact_punch_04.ogg",
+    "url": "https://raw.githubusercontent.com/Gl1ch5/assets-for-ai-agents/main/kenney/impact-sounds/impactPunch_medium_004.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/impact-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_click_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/click1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/rollover1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_click_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/click2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/rollover2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_click_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/click3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/rollover3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_click_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/click4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/rollover4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_click_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/click5.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_hover_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/rollover5.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_back.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/switch3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ui_confirm.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/UI%20sounds%20%2850%20sounds%29/mouseclick1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp5.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_power_05.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/powerUp6.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_laser_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/laser1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_laser_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/laser2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_laser_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/laser3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_laser_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/laser4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_laser_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/laser5.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_blink_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/phaseJump1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_blink_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/phaseJump2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_blink_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/phaseJump3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_blink_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/phaseJump4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_zap_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/zap1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/ability_zap_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Digital%20sounds%20%2860%20sounds%29/zap2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/whoosh_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/cloth1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/whoosh_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/cloth2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/whoosh_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/cloth3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/whoosh_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/cloth4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/thud_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/doorClose_1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/thud_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/doorClose_2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/thud_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/doorClose_3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/thud_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/RPG%20sounds%20%2850%20sounds%29/doorClose_4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_lay_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipLay1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_stack_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsStack1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_collide_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsCollide1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/card_slide_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/cardSlide1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/dice_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/diceThrow1.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_lay_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipLay2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_stack_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsStack2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_collide_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsCollide2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/card_slide_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/cardSlide2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/dice_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/diceThrow2.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_lay_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipLay3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_stack_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsStack3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_collide_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsCollide3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/card_slide_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/cardSlide3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/dice_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/diceThrow3.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_stack_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsStack4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/chip_collide_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/chipsCollide4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/card_slide_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/cardSlide4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/dice_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/diceThrow4.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/card_shuffle.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Casino%20sounds%20%2850%20sounds%29/cardShuffle.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/vfx/smoke_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/smoke_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/smoke_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/smoke_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/smoke_02.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/smoke_03.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/dirt_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/dirt_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/dirt_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/dirt_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/light_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/light_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/light_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/light_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/star_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/magic_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/star_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/magic_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/star_02.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/magic_03.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/streak_00.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/slash_01.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/vfx/streak_01.png",
+    "url": "https://raw.githubusercontent.com/shorepine/kenney/HEAD/2d/Particle%20Pack/PNG%20(Transparent)/slash_02.png",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/particle-pack",
+    "kind": "vfx"
+  },
+  {
+    "path": "res://assets/audio/stinger_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT00.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT01.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT02.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT03.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_04.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT04.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_05.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT05.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_06.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT06.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/stinger_07.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_HIT/jingles_HIT07.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/win_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_SAX/jingles_SAX00.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/win_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_SAX/jingles_SAX01.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/win_02.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_SAX/jingles_SAX02.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/win_03.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_SAX/jingles_SAX03.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/menu_00.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_NES/jingles_NES00.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  },
+  {
+    "path": "res://assets/audio/menu_01.ogg",
+    "url": "https://raw.githubusercontent.com/ismetcabbar9-oss/kenney-audio-assets/HEAD/Audio%20%28295%20files%29/Jingle%20sounds%20%2885%20sounds%29/jingles_NES/jingles_NES05.ogg",
+    "license": "CC0-1.0",
+    "author": "Kenney",
+    "page": "https://kenney.nl/assets/interface-sounds",
+    "kind": "audio"
+  }
+]

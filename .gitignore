@@ -1,0 +1,29 @@
+# Godot generated/import cache
+.godot/
+
+# Local verification output
+*.log
+.cloud-attachments/
+/.audio_tree.json
+/.g1.json
+/.unitypkg/
+
+# Root-level captures from manual/headless verification
+/shot*.png
+/shot*.jpg
+/shot*.webp
+/preview*.png
+/preview*.jpg
+/preview*.webp
+/*.png.import
+/*.jpg.import
+/*.webp.import
+__pycache__/
+*.pyc
+
+# Local secrets and editor state
+.env
+.env.*
+secrets.*
+.DS_Store
+Thumbs.db
