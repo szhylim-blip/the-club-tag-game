@@ -38,6 +38,36 @@ only the `HipsCtrl` root-control track, which contains baked root motion; the
 player motor owns world position. No replacement locomotion animation is
 authored by the game.
 
+## GitHub collaboration
+
+Repository: **https://github.com/szhylim-blip/the-club-tag-game** (private)
+
+Editors need to be invited by the owner under **Settings → Collaborators and
+Teams**. Once invited, clone the project with:
+
+```sh
+git clone https://github.com/szhylim-blip/the-club-tag-game.git
+cd the-club-tag-game
+```
+
+Keep `*.uid`, `*.import`, `project.godot` and the authored FBX files next to
+the resources they belong to. Do not commit `.godot/`, local captures, logs, or
+the `.env` family of files.
+
+## Continuous GitHub sync
+
+Run the project-local watcher from Git Bash to mirror edits here to GitHub and
+bring collaborators' GitHub edits back into this folder:
+
+```sh
+bash tools/git-autosync.sh
+```
+
+It commits workspace edits, rebases them onto remote changes, pushes `main`, and
+pulls remote changes when the local tree is clean. Its activity log is
+`.git/autosync.log` (never committed). Stop it with **Ctrl+C**. The watcher only
+runs while it is started; Git itself remains the source of truth.
+
 ## Asset sourcing
 
 Environment and VFX recommendations with license links are documented in
